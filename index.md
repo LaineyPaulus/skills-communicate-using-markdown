@@ -4,3 +4,6 @@
 #### My friend Mimi is great.
 ##### Is markdown like Rmarkdown?
 ###### What is the meaning of life?
+
+
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)
