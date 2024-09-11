@@ -12,3 +12,9 @@
 ``` r
 print("Hello World")
 ```
+
+### Task List
+
+- [X] Code like a boss
+- [ ] Be the best at everything
+- [ ] Help others
